@@ -86,7 +86,7 @@ layui.define(['laytpl', 'layer', 'element', 'util'], function(exports){
       },{
         main: '#24262F'
         ,logo: '#3A3D49'
-        ,selected: '#009688'
+        ,selected: '#409EFF'
         ,alias: 'classic-black' //经典黑
       },{
         logo: '#226A62'
